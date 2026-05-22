@@ -5,9 +5,6 @@ dist/
 # Bundled Tesseract binary (large, OS-specific, not source)
 tesseract/
 
-# User documents and settings backups
-docs/
-
 # Python bytecode
 __pycache__/
 *.pyc
